@@ -1,4 +1,4 @@
-# CISC230 - YOUR NAME HERE
+# CISC230 - Jada Rose
 
 ## factorial2.cpp
 
